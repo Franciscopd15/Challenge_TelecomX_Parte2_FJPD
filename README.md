@@ -10,3 +10,6 @@ solo 23 features de las 36 que componen el DF principal (codificadas por el mét
 Para visualizar el proceso de carga y tratamiento, encoding y modelado, así como una prueba de predicción, ver el notebook adjunto. El cual se compone del siguiente indice:
 
 <img width="1916" height="1010" alt="image" src="https://github.com/user-attachments/assets/6c33fa78-8123-4c89-ba64-cf901d0b8961" />
+
+
+**Francisco Joel Pérez Díaz**
